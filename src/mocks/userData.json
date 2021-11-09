@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Sukumar",
+        "age" : 28,
+        "gender": "male",
+        "nationality": "Indian"
+    },
+    {
+        "name": "Suku",
+        "age" : 28,
+        "gender": "male",
+        "nationality": "Indian"
+    },
+    {
+        "name": "Susan",
+        "age" : 28,
+        "gender": "male",
+        "nationality": "Others"
+    },
+    {
+        "name": "Devi",
+        "age" : 25,
+        "gender": "female",
+        "nationality": "Indian"
+    },
+    {
+        "name": "Dev Yani",
+        "age" : 25,
+        "gender": "male",
+        "nationality": "Others"
+    }
+]
